@@ -31,16 +31,11 @@ img {
   height: 65px;
   object-fit: cover;
 }
-
-.about-header nav {
-  vertical-align: middle;
-}
 .menu {
   display: flex;
   justify-content: space-between;
   padding: 50px;
 }
-
 .about-header a {
   color: #ffffff;
   font-size: 16px;
@@ -95,14 +90,11 @@ nav {
   line-height: 26px;
   color: #171717;
   font-family: "BPG Glaho Arial";
-  margin-bottom: 18px;
-}
-.about-section .content {
+  padding-bottom: 18px;
   padding-left: 80px;
   padding-right: 80px;
 }
-
-.about-section a {
+.show-more a {
   background-color: #0a22f4;
   color: #ffffff;
   padding: 18px 57px;
@@ -110,7 +102,6 @@ nav {
   line-height: 19px;
   border-radius: 28px;
 }
-
 .show-more {
   text-align: center;
   margin-top: 58px;
