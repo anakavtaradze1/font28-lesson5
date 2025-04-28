@@ -25,7 +25,6 @@ img {
   height: 387.56px;
   margin-bottom: -180px;
 }
-
 .about-header img {
   width: 115px;
   height: 65px;
@@ -47,17 +46,15 @@ ul > li:nth-child(6) {
   padding: 18px 36px;
   border-radius: 28px;
 }
-
 ul > li:nth-child(6) a {
   color: #171717;
 }
-
 .about-header li,
 nav {
   display: inline-block;
 }
 .about-header li {
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 .about-section img {
@@ -77,12 +74,11 @@ nav {
   width: 219px;
   height: 219px;
   object-fit: cover;
-  display: inline-block;
   margin-bottom: 60px;
 }
 .section-images {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   justify-content: space-between;
 }
 .about-section p {
